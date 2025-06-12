@@ -1,0 +1,33 @@
+/* filepath: c:\Users\gryou\PJ\kintone-plugin\markdown\src\css\desktop.css */
+.plugin-space-heading {
+  margin: 0.8rem;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.plugin-space-message {
+  margin: 0.8rem;
+  margin-top: 0;
+  font-size: 1.2em;
+  text-align: center;
+}
+
+.editor-preview {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  border-radius: 4px;
+  background-color: #f9f9f9;
+}
+
+.field-selector {
+  margin-bottom: 1rem;
+}
+
+.field-selector label {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.field-selector input[type="checkbox"] {
+  margin-right: 0.5rem;
+}

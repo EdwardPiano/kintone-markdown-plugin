@@ -1,0 +1,38 @@
+{
+  "manifest_version": 1,
+  "version": 1,
+  "type": "APP",
+  "desktop": {
+    "js": [
+      "https://cdn.jsdelivr.net/npm/vue@3.2.23",
+      "$desktop"
+    ],
+    "css": [
+      "$desktop"
+    ]
+  },
+  "icon": "image/icon.png",
+  "config": {
+    "html": "html/config.html",
+    "js": [
+      "https://cdn.jsdelivr.net/npm/vue@3.2.23",
+      "$config"
+    ],
+    "css": [
+      "$config"
+    ],
+    "required_params": [
+      "selectedFields"
+    ]
+  },
+  "name": {
+    "en": "markdown",
+    "ja": "markdown",
+    "zh": "markdown"
+  },
+  "description": {
+    "en": "markdown",
+    "ja": "markdown",
+    "zh": "markdown"
+  }
+}
